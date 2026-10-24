@@ -1,0 +1,19 @@
+{
+  "videos": [
+    {
+      "id": "ia01",
+      "path": "/workspace/artifacts/production/videos/ia01.mp4",
+      "duration": 180.0,
+      "bytes": 15562238,
+      "words": 422,
+      "frames": 68,
+      "channel": "ia",
+      "title": "2026 El pulpo abre frascos #Fauna #Animales #Shorts #Naturaleza #2026",
+      "title_card": "2026 El pulpo abre frascos",
+      "description": "El pulpo común guarda una inteligencia que no cabe en la idea de un simple molusco. Abre frascos, carga cáscaras de coco como refugio y reparte sus neuronas por los brazos, de modo que cada tentáculo explora con criterio propio. Sus ventosas prueban el entorno mientras la piel copia el color del fondo en cuestión de segundos.\n\nLa hembra puede pasar meses cuidando los huevos sin alimentarse, ventilando el agua hasta que las crías salen. En laboratorio se han observado memoria, elección de rutas y reconocimiento de personas. Nada de esto convierte al océano en un cuento: es biología observable, filmada y repetida por equipos distintos.\n\nEste video recorre esas conductas sin relleno y sin repetir la misma escena. Si quieres seguir la serie de fauna de dos mil veintiséis, quédate en el canal. La vida salvaje sigue siendo más rara que cualquier guion inventado, y el pulpo es solo la primera puerta.\n\nSi este video te sirvió, sígueme, deja tu like y compártelo.\n\nEnlaces de búsqueda en Amazon:\nLos binoculares que la gente se lleva al campo para no perder el detalle: https://www.amazon.com/s?k=Bushnell+binoculars+10x42\nLa guía ilustrada de fauna que se hojea una y otra vez: https://www.amazon.com/s?k=National+Geographic+field+guide+wildlife\nLa libreta impermeable que sobrevive a la humedad del sendero: https://www.amazon.com/s?k=Rite+in+the+Rain+notebook\nLa linterna frontal que deja las manos libres al anochecer: https://www.amazon.com/s?k=Petzl+headlamp\nLa cámara de rastro que espera en silencio entre los árboles: https://www.amazon.com/s?k=wildlife+trail+camera\n\nLos enlaces van sin tag de afiliado: no apareció un tag real en Drive y los posts viejos de Buffer no se pudieron leer por límite de la API.\n\n#Animales #FaunaSalvaje #CuriosidadesAnimales #VidaSilvestre #Naturaleza #Shorts #DatosCuriosos #2026 #ReinoAnimal #InteligenciaAnimal",
+      "first_comment": "¿Tú confiarías un frasco cerrado a un pulpo? Cuéntalo abajo y mira el enlace de la descripción.",
+      "categoryId": "15",
+      "voice": "es-MX-DaliaNeural"
+    }
+  ]
+}
